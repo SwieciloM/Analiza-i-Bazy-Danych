@@ -1,0 +1,4 @@
+Orginalna baza danych "drinks.csv" jest zbiorem informacji na temat średniego spożycia alkoholu na mieszkańca dla osób w wieku 15 lat i starszych.
+Wyniki pokazują, ile kieliszków wina, puszek piwa i kieliszków napojów spirytusowych zostało wypitych na osobę w każdym kraju w 2010 roku. 
+Zbiór składa się 1 wiersza z nazwami zmiennych oraz 193 wierszy danych oddzielonych przecinkami.
+W każdym rekordzie występuje nazwa państwa (tekst), liczba porcji piwa (numer), liczba porcji spirytusu (numer), liczba porcji wina (numer) oraz całkowitą liczbę wypitego alkoholu (numer).

@@ -1,0 +1,3 @@
+Kolejność wykonywania skryptów:
+1. Uruchom wszystkie komórki w 'Data processing.ipynb'
+2. Uruchom wszystkie komórki w 'Data analysis.ipynb'
